@@ -1,0 +1,4 @@
+.*.sw[a-z]
+*.pyc
+*.pyc
+__pycache__/
